@@ -2,7 +2,7 @@
 # Trabajo en clase sub/pub
 
 
-## Authors
+## Autor
 
 - Cahuana Aguilar, Josué Mathías Miguel [@josuecahuana](https://github.com/josuecahuana)
 
